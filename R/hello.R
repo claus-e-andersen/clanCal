@@ -15,4 +15,5 @@
 
 hello <- function() {
   print("Hello, world Claus!")
+  print("I added this line March 26, 2020.")
 }
