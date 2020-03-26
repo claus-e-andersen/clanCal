@@ -17,4 +17,4 @@ hello <- function() {
   print("Hello, world Claus!")
   print("I added this line March 26, 2020.")
   print("I also added this line March 26, 2020.")
-}
+  print("Rstudio change. I also added this line March 26, 2020.")}
